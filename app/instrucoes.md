@@ -1,3 +1,10 @@
+$ npx react-native start
+$ npx react-native run-android
+
+## AULA
+https://youtu.be/kk_pGWBOkc4?t=7133
+
+## WINDOWS
 choco install -y nodejs.install openjdk8
 
 
