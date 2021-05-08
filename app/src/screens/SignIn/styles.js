@@ -47,13 +47,3 @@ export const SignMessageButtonTextBold = styled.Text`
 `;
 
 
-/*
-
-InputArea,
-    CustomButton,
-    CustomButtonText,
-    SignMessageButton,
-    SignMessageButtonText,
-    SignMessageButtonTextBold
-
-    */
