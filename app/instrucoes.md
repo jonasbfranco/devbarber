@@ -1,8 +1,16 @@
 $ npx react-native start
 $ npx react-native run-android
+$ react-native run-android --no-packager
+
+##EXPORTANDO JAVA LINUX
+$ export JAVA_HOME=/usr/lib/jvm/java-11-openjdk-11.0.11.0.9-0.fc34.x86_64
+
+## Login
+jonasbfranco@gmai.com
+1234
 
 ## AULA
-https://youtu.be/kk_pGWBOkc4?t=11003
+https://youtu.be/kk_pGWBOkc4?t=12354
 
 ## WINDOWS
 choco install -y nodejs.install openjdk8
